@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.allowMnemonics": true,
+    "terminal.integrated.enableShellIntegration": true,
+    "problems.showCurrentInStatus": true,
+    "remote.downloadExtensionsLocally": true
+}
